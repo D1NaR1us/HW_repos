@@ -1,8 +1,14 @@
 
-
+[
 {
 "repo":"https://github.com/D1NaR1us/DevOps_HW.git",
 "email":"dinar0@example.com",
 "name":"Dinar0"
+},
+{
+    "repo":"https://github.com/D1NaR1us/DevOps_HW.git",
+    "email":"dinar1@example.com",
+    "name":"Dinar1"
 }
+]
 
